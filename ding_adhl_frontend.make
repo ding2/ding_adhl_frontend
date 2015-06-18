@@ -12,5 +12,5 @@ projects[panels][patch][] =  "http://drupal.org/files/1649046-form-wrapper-is-wh
 projects[ting][type] = "module"
 projects[ting][download][type] = "git"
 projects[ting][download][url] = "git@github.com:ding2/ting.git"
-projects[ting][download][tag] = "7.x-2.1.0"
+projects[ting][download][tag] = "7.x-2.2.0-rc1"
 
